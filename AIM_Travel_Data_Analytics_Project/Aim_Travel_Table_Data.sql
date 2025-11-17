@@ -1,0 +1,1 @@
+SELECT * FROM aim_travel.aim_travel_trips;
