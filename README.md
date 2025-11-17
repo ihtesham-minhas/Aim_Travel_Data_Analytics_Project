@@ -52,7 +52,8 @@ Complete Picture by Gross Profit and Costs
 | **Excel**                | Data staging                      |
 
 
-📊 Key Insights
+**📊 Key Insights**
+
 ⭐ Top Profitable Route
 
 London → Edinburgh via Bicester, Shakespeare, Lake District
@@ -73,19 +74,21 @@ Minibus (8-seater)
 Fuel = 44.5% of total costs
 → Immediate opportunity for optimisation.
 
-💡 Recommendations
 
-Upsell Minibus for corporate & family bookings → highest margin.
+**💡 Recommendations**
 
-Promote tourist routes between April–August → peak profit window.
+⭐ Upsell Minibus for corporate & family bookings → highest margin.
 
-Review fuel strategies (car vs minibus allocation, long-distance pricing).
+⭐ Promote tourist routes between April–August → peak profit window.
 
-Create seasonal pricing model to maximise Q2/Q3 revenue.
+⭐ Review fuel strategies (car vs minibus allocation, long-distance pricing).
+
+⭐ Create seasonal pricing model to maximise Q2/Q3 revenue.
 
 🧑‍💻 Author
 
 Muhammad Ihtesham Minhas
+
 Data Analytics | SQL | Python | Tableau | Power BI
 
 https://www.linkedin.com/in/m-ihtesham-minhas-481ba4107
