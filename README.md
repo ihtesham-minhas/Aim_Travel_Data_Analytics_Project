@@ -52,7 +52,8 @@ Complete Picture by Gross Profit and Costs
 | **Excel**                | Data staging                      |
 
 
-**📊 Key Insights**
+                
+                **📊 Key Insights**
 
 ⭐ Top Profitable Route
 
@@ -75,7 +76,9 @@ Fuel = 44.5% of total costs
 → Immediate opportunity for optimisation.
 
 
-**💡 Recommendations**
+                      
+                      
+               **💡 Recommendations**
 
 ⭐ Upsell Minibus for corporate & family bookings → highest margin.
 
