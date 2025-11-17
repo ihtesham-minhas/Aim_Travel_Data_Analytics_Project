@@ -40,3 +40,51 @@ Which cost drivers (fuel, maintenance, tolls, driver stays) impact total costs t
 Complete Picture by Gross Profit and Costs
 <img width="1810" height="900" alt="Aim Costs Dashboard" src="https://github.com/user-attachments/assets/63300657-ced8-4561-846e-d46f43433622" />
 <img width="1928" height="984" alt="Aim Profits Dashboard" src="https://github.com/user-attachments/assets/2deda5ee-771f-4dfe-89f4-e11c8b9165b7" />
+
+🛠️ Tools Used
+| Tool                     | Purpose                           |
+| ------------------------ | --------------------------------- |
+| **Python**               | Cleaning, transformations, charts |
+| **Pandas**               | Data wrangling                    |
+| **Matplotlib / Seaborn** | Visualisations                    |
+| **MySQL**                | Data modelling + queries          |
+| **Tableau**              | Interactive dashboards            |
+| **Excel**                | Data staging                      |
+
+
+📊 Key Insights
+⭐ Top Profitable Route
+
+London → Edinburgh via Bicester, Shakespeare, Lake District
+→ Highest profit due to long distance & strong corporate demand.
+
+⭐ Best Customer Segment
+
+Tourists (June–August peak)
+→ Highest seasonal spending, multi-day tours.
+
+⭐ Best Vehicle Type
+
+Minibus (8-seater)
+→ Avg profit per trip ~£430 (higher than car).
+
+⭐ Top Cost Driver
+
+Fuel = 44.5% of total costs
+→ Immediate opportunity for optimisation.
+
+💡 Recommendations
+
+Upsell Minibus for corporate & family bookings → highest margin.
+
+Promote tourist routes between April–August → peak profit window.
+
+Review fuel strategies (car vs minibus allocation, long-distance pricing).
+
+Create seasonal pricing model to maximise Q2/Q3 revenue.
+
+🧑‍💻 Author
+
+Muhammad Ihtesham Minhas
+Data Analytics | SQL | Python | Tableau | Power BI
+https://www.linkedin.com/in/m-ihtesham-minhas-481ba4107
