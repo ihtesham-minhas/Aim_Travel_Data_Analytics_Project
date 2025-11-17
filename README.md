@@ -87,4 +87,5 @@ Create seasonal pricing model to maximise Q2/Q3 revenue.
 
 Muhammad Ihtesham Minhas
 Data Analytics | SQL | Python | Tableau | Power BI
+
 https://www.linkedin.com/in/m-ihtesham-minhas-481ba4107
